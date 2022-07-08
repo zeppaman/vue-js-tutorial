@@ -14,6 +14,7 @@ code . #open vscode
 # run the demo
 ```
 cd example #enter example forder
+npm install
 npm run serve
 ```
 
