@@ -13,7 +13,8 @@ code . #open vscode
 
 # run the demo
 ```
-npm run
+cd example #enter example forder
+npm run serve
 ```
 
 
